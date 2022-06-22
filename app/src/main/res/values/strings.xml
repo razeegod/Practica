@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">КиноПоиск</string>
+    <string name="search_theatre">Найти кинотеатр</string>
+    <string name="start">Начать</string>
+    <string name="add">Добавить</string>
+    <string name="search_film">Найти фильм</string>
+    <string name="new_theatre">Добавить кинотеатр</string>
+    <string name="new_film">Добавить фильм</string>
+    <string name="Search_End">Поиск завершен</string>
+    <string name="Search_Start">Поиск...</string>
+</resources>
